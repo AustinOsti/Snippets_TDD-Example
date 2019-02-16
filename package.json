@@ -1,0 +1,23 @@
+{
+  "name": "snippets_tdd-example",
+  "version": "1.0.0",
+  "description": "Introduction to Test Driven Design Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinOsti/Snippets_TDD-Example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinOsti/Snippets_TDD-Example/issues"
+  },
+  "homepage": "https://github.com/AustinOsti/Snippets_TDD-Example#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
