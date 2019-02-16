@@ -1,7 +1,7 @@
 # Snippets_TDD-Example
 Introduction to Test Driven Design Example
 
-#Procedure
+# Procedure
 1. Run npm install jest --D 
 Jest is a testing suite. Often, you’ll need a testing library and a separate assertion library, but Jest is an all-in-one solution.
 
@@ -10,11 +10,11 @@ Jest is a testing suite. Often, you’ll need a testing library and a separate a
 This will allow tou to invoke the test utility as follows:
 npm run test
 
-#Project
+# Project
 In this snippet we show how the TDD is used to develop application logic. 
 In our example, we are developing code to create a unique ID.
 
-#Testing Based on Specifications
+# Testing Based on Specifications
 As tempting as it is to just sit down and start typing application logic, a well-formulated plan will make development easier. We need to define what our program will do. We define these goals with specifications.
 
 Our high-level specification for this project is to create a unique ID, although we should break that down into smaller units that we will test. For our small project we will use the following specifications:
